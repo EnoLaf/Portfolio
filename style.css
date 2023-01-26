@@ -27,7 +27,7 @@ body{
 
 /* Hero Section */
 #hero{
-    background-image: url("./img/bg.png");
+    /*background-image: url("./img/bg.png");*/
 }
 #hero .hero{
     max-width: 100%;
@@ -52,19 +52,39 @@ body{
 /* End Hero Section */
 
 /* About Section */
+#about .about-img{
+    height: 100%;
+    width:100%;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+
 #about h1{
     font-family: 'Faune';
     font-weight: 700;
     font-size: 36px;
     color: #11115B;
+    margin-left: 475px;
 }
+
 #about p{
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     font-size: 24px;
     color: #11115B;
+    margin-left: 475px;
 }
+
 #about button{
+    width: 319px;
+    height: 63px;
+    background-color: #8AC6D1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
     font-family: 'Faune';
+    font-weight: 700;
+    font-size: 32px;
+    color: white;
+    margin-left: 697px;
 }
 /* End About Section */
