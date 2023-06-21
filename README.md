@@ -1,40 +1,40 @@
 # Portfolio
 
-Ce projet est un portfolio personnel créé à l'aide du framework Astro. Le portfolio présente mes compétences, projets, expériences et informations personnelles de manière organisée et attrayante.
+This project is a personal portfolio built using the Astro framework. The portfolio showcases my skills, projects, experiences, and personal information in an organized and appealing manner.
 
-## Fonctionnalités
+## Features
 
-- Affichage des informations personnelles, y compris une brève biographie, une photo de profil et des coordonnées de contact.
-- Présentation de mes compétences techniques et compétences clés.
-- Présentation de mes projets précédents, avec des descriptions, des images et des liens pertinents.
-- Affichage de mes expériences professionnelles et de mes réalisations.
-- Présentation de mes coordonnées de contact et des liens vers mes profils de réseaux sociaux.
+- Display personal information, including a brief biography, profile picture, and contact details.
+- Present my technical skills and key competencies.
+- Showcase my previous projects, with descriptions, images, and relevant links.
+- Display my professional experiences and achievements.
+- Present my contact information and links to my social media profiles.
 
-## Technologies utilisées
+## Technologies Used
 
-Le projet est basé sur les technologies suivantes :
+The project is based on the following technologies:
 
-- **Astro**: un framework statique et moderne pour la construction de sites Web performants et dynamiques.
-- **HTML**: le langage de balisage utilisé pour structurer le contenu du site.
-- **CSS**: utilisé pour styliser et mettre en forme le site.
-- **JavaScript**: utilisé pour l'ajout de fonctionnalités dynamiques au site.
-- **Markdown**: utilisé pour la rédaction de contenu textuel.
+- **Astro**: A static and modern framework for building performant and dynamic websites.
+- **HTML**: The markup language used to structure the site's content.
+- **CSS**: Used for styling and formatting the site.
+- **JavaScript**: Used for adding dynamic functionality to the site.
+- **Markdown**: Used for writing textual content.
 
 ## Installation
 
-Pour exécuter localement le projet, suivez les étapes ci-dessous :
+To run the project locally, follow the steps below:
 
-1. Assurez-vous d'avoir Node.js installé sur votre machine.
-2. Clonez ce référentiel GitHub sur votre machine locale.
-3. Accédez au répertoire du projet via votre terminal.
-4. Exécutez la commande `npm install` pour installer les dépendances.
-5. Ensuite, exécutez la commande `npm run dev` pour démarrer le serveur de développement.
-6. Ouvrez votre navigateur et accédez à `http://localhost:3000` pour voir le portfolio en action.
+1. Make sure you have Node.js installed on your machine.
+2. Clone this GitHub repository to your local machine.
+3. Navigate to the project directory using your terminal.
+4. Run the command `npm install` to install the dependencies.
+5. Then, run the command `npm run dev` to start the development server.
+6. Open your browser and go to `http://localhost:3000` to see the portfolio in action.
 
-## Licence
+## License
 
-Ce projet est sous licence MIT. Vous pouvez consulter le fichier [LICENSE](LICENSE) pour plus d'informations.
+This project is licensed under the MIT License. You can refer to the [LICENSE](LICENSE) file for more information.
 
-## Auteur
+## Author
 
-Ce projet a été créé par Enora Lafforgue ([enora.lafforgue@gmail.com](mailto:enora.lafforgue@gmail.com)). N'hésitez pas à me contacter si vous avez des questions ou des commentaires.
+This project was created by Enora Lafforgue ([enora.lafforgue@gmail.com](mailto:enora.lafforgue@gmail.com)). Feel free to contact me if you have any questions or comments.
